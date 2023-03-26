@@ -1,5 +1,6 @@
 # bangkit-money-tracker
-This is a simple frontend app deployed to Google Compute Engine.
+This is a simple frontend app deployed to Google Compute Engine. The backend app can be found here https://github.com/firdayantikmd/bangkit-money-tracker-api.git.
+
 
 ## How to deploy?
 1. Create compute engine instance (e2-small/Ubuntu)
